@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SKHX, you can call me Elie, after a 2 year experience living in Manila, Phillipines, i went back to my home country, France.
+- 👀 I’m interested in front-end web dev
+- 🌱 I’m currently learning html/css/js and would probably at some point learn Python and Go
+- 💞️ I’m looking to collaborate on any educational project.
+- 📫 How to reach me: discord>skheo
