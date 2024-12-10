@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKHX, you can call me Elie, after a 2 year experience living in Manila, Phillipines, i went back to my home country, France. I have a background as an IT support tech. I've a keen interest in the aesthetic side of the web development and I'm very familiar with tools such as Photoshop.
+- 👋 Hi, I’m @SKHX, you can call me Elie, after a 3 year experience living in Manila, Phillipines, i went back to my home country, France. I have a background as an IT support tech. I've a keen interest in the aesthetic side of the web development and I'm very familiar with tools such as Photoshop.
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html/css/js and would probably at some point learn Python and Go
 - 💞️ I’m looking to collaborate on any educational project.
